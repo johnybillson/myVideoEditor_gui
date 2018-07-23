@@ -1,0 +1,14 @@
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\bin\Release\myVideoEditor_gui.exe
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\bin\Release\myVideoEditor_gui.pdb
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\bin\Release\myVideoEditor_gui.xml
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x86\Release\myVideoEditor_gui.Main.resources
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x86\Release\myVideoEditor_gui.Resources.resources
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x86\Release\myVideoEditor_gui.vbproj.GenerateResource.Cache
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x86\Release\myVideoEditor_gui.exe
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x86\Release\myVideoEditor_gui.xml
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x86\Release\myVideoEditor_gui.pdb
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\bin\Release\Interop.myVideoEditorLib.dll
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\bin\Release\AxInterop.myVideoEditorLib.dll
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x86\Release\Interop.myVideoEditorLib.dll
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x86\Release\AxInterop.myVideoEditorLib.dll
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x86\Release\myVideoEditor_gui.vbproj.ResolveComReference.cache
