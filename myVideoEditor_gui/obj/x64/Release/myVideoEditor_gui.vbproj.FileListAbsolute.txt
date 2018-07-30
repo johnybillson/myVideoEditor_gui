@@ -1,0 +1,1 @@
+D:\dev\myVideoEditor_gui\myVideoEditor_gui\obj\x64\Release\Interop.myVideoEditorLib.dll
